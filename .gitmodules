@@ -1,0 +1,3 @@
+[submodule "elevate-jobs/elvate-springboot"]
+	path = elevate-jobs/elvate-springboot
+	url = https://github.com/SatyamKharote/elvate-springboot.git
