@@ -1,0 +1,6 @@
+[submodule "elevate-springboot"]
+	path = elevate-springboot
+	url = https://github.com/SatyamKharote/elvate-springboot.git
+[submodule "elevate-dotnet"]
+	path = elevate-dotnet
+	url = https://github.com/SatyamKharote/elevate-dotnet.git
