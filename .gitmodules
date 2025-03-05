@@ -4,3 +4,6 @@
 [submodule "elevate-dotnet"]
 	path = elevate-dotnet
 	url = https://github.com/SatyamKharote/elevate-dotnet.git
+[submodule "elevate-fronend"]
+	path = elevate-fronend
+	url = https://github.com/Jayesh-Ahirrao/Elevate.git
